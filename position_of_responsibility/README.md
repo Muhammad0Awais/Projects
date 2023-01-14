@@ -1,4 +1,6 @@
-#Positions
+# Positions
+
+
 I have handled the following positions volunteerly:
 
 - Music Band **Manager** (2021-2022).
