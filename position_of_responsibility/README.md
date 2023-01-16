@@ -9,9 +9,9 @@ I have handled the following positions volunteerly:
   - Founded the club and brought the club to top-20 clubs in ranking of Innopolis clubs.
 - **Organized** several events in Russia and in Pakistan.
   - Event manager at Art and Dramatic Society IIUI ![IIUI Event Manager certificate](IIUI_Event_Manager_Media.jpg)
-  - Event Coordinator at ASCII 16 and ASCII 17 event (https://www.facebook.com/ASCIIOfficial)![coordinator certificate](IIUI_organizer.jpg)
+  - Event Coordinator at ASCII 16 and ASCII 17 event (https://www.facebook.com/ASCIIOfficial) ![coordinator_certificate](IIUI_organizer.jpg)
   - Ambassador at TectIQs 16. ![TODO](----.jpg)
-  - Organizer of TechFiesta 17 (https://www.facebook.com/events/282564688857280). ![TODO](----.jpg)
+  - Organizer of TechFiesta 17 (https://www.facebook.com/events/282564688857280). ![Lincoln Corner](Lincoln_Corner_certificate.jpg)
   - Event organizer at Youth Expo Pakistan 2015(https://www.facebook.com/events/1718308505066882). ![Youth Expo](Organizer_2015.jpg)
   - Event organizer at Connected Pakistan Conference 2018(https://www.facebook.com/events/639066313096886). ![TODO](----.jpg)
   - Organizer at Innopolis Student Meetup (https://ipts.innopolis.university/projects/58)
