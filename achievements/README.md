@@ -10,4 +10,4 @@
 - **Second Position** in programming competitions (2016, 2017), Pakistan (Language C++)![alt text](FUUAST_Speed_programming_second.jpg)
 - **1st position** in programming competition 2015, Pakistan (Language C++)![alt text](IIUI_Speed_programming_winner.jpg)
 - Merit-based university scholarship for **Bachelors** and **Master’s** degree ![TODO](-----.jpg)
-- **Presented** two papers at the SAI Computing conference 2021, and ALISA 2022. ![TODO](-----.jpg)
+- **Presented** two papers at the SAI Computing conference 2021, and ALISA 2022. ![certificate of Computing Conference](Computing_conference_certificate.jpeg) ![certificate of ISDA](ISDA_presentation.png)
