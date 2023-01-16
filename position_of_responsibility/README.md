@@ -18,7 +18,7 @@ I have handled the following positions volunteerly:
   - Volunteer at Innopolis Integeration Bee (https://ipts.innopolis.university/projects/71)
   - Organizer at IU Typing master contest (https://ipts.innopolis.university/projects/78)
   - Organizer at IU valentine's party (https://ipts.innopolis.university/projects/127)
-  - Organizer and Buddy at InnoBootCamp 2021, 2022 (https://ipts.innopolis.university/projects/223) ![TODO](----.jpg)
+  - Organizer and Buddy at InnoBootCamp 2021, 2022 (https://ipts.innopolis.university/projects/223) ![Organizer_Bootcamp_2021](Organizer_Bootcamp_2021.jpg)
   - Organizer at IU typing contest (https://ipts.innopolis.university/projects/250)
 - **Lead teams** in several hackathons in Russia and Pakistan.
   - Worked in teams of people from different countries.
