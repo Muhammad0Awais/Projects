@@ -5,6 +5,8 @@
 - **First position** in Innopolis Happiness Index Hackathon 2021, Russia (Language Python) ![alt text](Innopolis_happiness_index_2021_first.jpg)
 - **Second position** in LingvoHack (2022),  
 ![alt text](lingohack.jpg)
+- **Second position** in Art Therapy Hackathon (2021),  
+![alt text](artTherapyHackathon_2nd_position.jpg)
 - **Second Position** Case in Tools International Hackathon (2021), Russia (Language Python) ![alt text](Winner_of_THE_CASE_in_Tools_Hackathon_2021_second_Ch_Muhammad_Awais.jpg)
 - **Third Position** in AR/VR Hackathon (2020), Russia ![alt text](AR_VR_3rd_Postion.jpg)
 - **Second Position** in programming competitions (2016, 2017), Pakistan (Language C++)![alt text](FUUAST_Speed_programming_second.jpg)
